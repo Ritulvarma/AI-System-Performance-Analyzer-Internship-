@@ -2,7 +2,7 @@
 
 > A modern, real-time web application performance monitoring dashboard and AI recommendation engine built with **Next.js 15**, **React 19**, **TypeScript**, **Chart.js**, **Cytoscape.js**, and **Tailwind CSS**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=for-the-badge&logo=vercel)](https://your-demo-url.vercel.app)
+[![Live Demo](https://ai-system-performance-analyzer-internship-ugjx-gyctn8sfo.vercel.app/)](https://your-demo-url.vercel.app)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
