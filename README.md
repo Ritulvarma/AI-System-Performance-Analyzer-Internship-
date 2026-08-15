@@ -18,8 +18,6 @@ You can run and experience the live application online here:
 👉 **[Launch AI Performance Analyzer](https://ai-system-performance-analyzer-internship-ugjx-gyctn8sfo.vercel.app
 )**
 
-*(Note: Replace `https://your-demo-url.vercel.app` with your actual deployed Vercel, Netlify, or custom domain URL.)*
-
 ---
 
 ## 📖 Overview
